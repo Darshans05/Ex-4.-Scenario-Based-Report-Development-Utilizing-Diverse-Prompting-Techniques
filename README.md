@@ -18,6 +18,8 @@ Troubleshooting
 
 ## Step 2: Define Prompting Techniques
 
+<img width="916" height="449" alt="image" src="https://github.com/user-attachments/assets/0400f0b5-85d7-4ec4-8984-6ab7db56b427" />
+
 Choose multiple prompting strategies to test:
 
 Zero-shot prompting
@@ -73,6 +75,9 @@ Highlight strengths and weaknesses of each prompting method in various retail si
 Identify the most effective combination of prompting strategies (e.g., few-shot for accuracy, role-based for empathy, chain-of-thought for troubleshooting).
 
 Recommend a hybrid approach for building a customer-centric retail chatbot.
+
+<img width="1432" height="806" alt="image" src="https://github.com/user-attachments/assets/18af281e-9920-4fde-991f-d51ae3e074da" />
+
 ## Prompt , Output & Result
 ## Scenario 1: Product Availability
 
@@ -166,6 +171,8 @@ Chain-of-thought prompting: Strong for systematic problem-solving.
 Instruction-based prompting: Best for concise explanations such as return/refund policies.
 
 Socratic prompting: Encourages self-assessment but can feel indirect.
+
+<img width="691" height="837" alt="image" src="https://github.com/user-attachments/assets/9efcbacf-9809-45fe-ac9e-cc50ccf99320" />
 
 ## Conclusion
 
